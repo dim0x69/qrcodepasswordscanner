@@ -1,0 +1,4 @@
+qrcodepasswordscanner
+=====================
+
+QRCode Password Scanner
