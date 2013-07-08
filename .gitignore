@@ -15,9 +15,9 @@ gen/
 # Local configuration file (sdk path, etc)
 local.properties
 ant.properties
-.settings
-libs
-
+libs/arm*
+libs/x86
+libs/zbar.jar
 # Eclipse project files
 .classpath
 .project
