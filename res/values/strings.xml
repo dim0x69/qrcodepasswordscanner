@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QR Password Scanner</string>
+    <string name="action_settings">Settings</string>
+    <string name="clear_wait">Seconds to wait</string>
+    <string name="clear_wait_summary">After how many seconds should the clipboard be cleared?</string>
+
+</resources>
