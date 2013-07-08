@@ -3,7 +3,7 @@ qrcodepasswordscanner
 
 QRCode Password Scanner
 
-a simple android app to scan your QR codes and make sure the clipboard is automatically cleared after some seconds.
+a simple android app to scan your QR codes, paste the found string into the clipboard and make sure the clipboard is automatically cleared after some seconds.
 
 i created this because other QR Code scanner apps require INTERNET-permissions and sometimes even save a history
 of scanned codes. This app just needs CAMERA-Permissions, is simple and does not store anything.
