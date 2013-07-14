@@ -2,5 +2,6 @@
 <EditTextPreference
         android:key="clear_wait"
         android:title="@string/clear_wait"
-        android:summary="@string/clear_wait_summary" />
+        android:summary="@string/clear_wait_summary" 
+        android:inputType="number"/>
 </PreferenceScreen>
